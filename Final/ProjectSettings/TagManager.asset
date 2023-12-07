@@ -8,6 +8,11 @@ TagManager:
   - CinemachineTarget
   - ScreenCamera
   - cockpit_capitalLaser
+  - Enemy1
+  - Enemy
+  - Tear
+  - Powerup
+  - Brimestone
   layers:
   - Default
   - TransparentFX
